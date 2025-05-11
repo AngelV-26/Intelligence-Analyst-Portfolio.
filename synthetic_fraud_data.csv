@@ -1,0 +1,4 @@
+account_id,email,device_id,to_account_id,tx_id
+A001,a1@mail.com,D001,A002,TX01
+A002,a2@mail.com,D002,A003,TX02
+A003,a3@mail.com,D001,A001,TX03
