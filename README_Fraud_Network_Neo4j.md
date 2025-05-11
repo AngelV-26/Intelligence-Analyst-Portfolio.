@@ -3,6 +3,8 @@
 
 This project demonstrates how to use **graph databases** and the **Cypher query language** to detect and analyze **fraud networks**, such as synthetic identity fraud, using Neo4j.
 
+Furthermore, it simulates real-world fraud detection using graph databases. It models how accounts, devices, and emails relate, using Neo4j to uncover fraud rings, synthetic identities, and transaction laundering.
+
 ## 📌 Objective
 Model relationships between accounts, devices, emails, and transactions to uncover suspicious behavior, such as shared infrastructure or circular money flow between entities.
 
